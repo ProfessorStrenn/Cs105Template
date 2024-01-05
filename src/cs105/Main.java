@@ -2,6 +2,6 @@ package cs105;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello CS105!");
+        // Type your main() code here
     }
 }
