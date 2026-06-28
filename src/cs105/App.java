@@ -1,4 +1,4 @@
 
 void main() {
-    // Replace this comment with your code 👍😀👍.
+    // Replace this comment with your code 👍😀👍
 }
